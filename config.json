@@ -1,0 +1,11 @@
+{
+  "telegram_token": "ВАШ_TELEGRAM_BOT_TOKEN",
+  "chat_id": "ВАШ_CHAT_ID",
+  "news_sources": [
+    "https://meduza.io/rss/all",
+    "https://tjournal.ru/rss"
+  ],
+  "meme_sources": [
+    "https://www.reddit.com/r/memes/.rss"
+  ]
+}
